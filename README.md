@@ -42,7 +42,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/titumirhossain)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titumirhossain)  
 📧 Email: titumir.edu.bd@gmail.com
 
 ---
